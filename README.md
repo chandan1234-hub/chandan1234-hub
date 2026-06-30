@@ -73,20 +73,6 @@
   </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=chandan1234-hub&show_icons=true&theme=radical&hide_border=true" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan1234-hub&theme=radical&hide_border=true" /></td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan1234-hub&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan1234-hub&theme=react-dark&hide_border=true" />
@@ -97,8 +83,8 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:chandandewangan669@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="chandankumardewangan00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chandan-kumar-dewangan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Still learning, still building — one commit at a time 🚀</i></p>
