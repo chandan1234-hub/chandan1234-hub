@@ -22,7 +22,7 @@
         <li>💻 Skilled in <b>HTML, CSS, JavaScript, React, Node.js, Express, MongoDB/Mongoose</b></li>
         <li>🌱 Currently sharpening <b>DSA & System Design</b></li>
         <li>🎨 Freelance graphic designer — Canva-based social media & branding work</li>
-        <li>📫 <a href="mailto:chandandewangan669@gmail.com">chandandewangan669@gmail.com</a></li>
+        <li>📫 <a href="mailto:chandankumardewangan00@gmail.com">chandankumardewangan00@gmail.com</a></li>
       </ul>
     </td>
     <td valign="top" width="50%">
