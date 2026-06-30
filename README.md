@@ -2,7 +2,7 @@
 <h3 align="center">Junior Web Developer | MERN Stack | Building AI-powered EdTech</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandan1234-hub&label=Profile%20Views&color=blueviolet&style=flat](https://github.com/chandan1234-hub)" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=chandan1234-hub&label=Profile%20Views&color=blueviolet&style=flat(https://github.com/chandan1234-hub)" alt="profile views" />
   <a href="https://github.com/chandan1234-hub?tab=followers"><img src="https://img.shields.io/github/followers/chandan1234-hub?label=Followers&style=flat&color=blue(https://github.com/chandan1234-hub?tab=followers)" /></a>
 </p>
 
