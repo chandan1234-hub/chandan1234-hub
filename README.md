@@ -21,7 +21,7 @@
         <li>🎓 Junior Web Developer based in India</li>
         <li>💻 Skilled in <b>HTML, CSS, JavaScript, React, Node.js, Express, MongoDB/Mongoose</b></li>
         <li>🌱 Currently sharpening <b>DSA & System Design</b></li>
-        <li>🎨 Freelance graphic designer — Photoshop & Photoshop-based social media & branding work</li>
+        <li>🎨 Freelance graphic designer — Photoshop & Figma-based social media & branding work</li>
         <li>📫 <a href="mailto:chandankumardewangan00@gmail.com">chandankumardewangan00@gmail.com</a></li>
       </ul>
     </td>
