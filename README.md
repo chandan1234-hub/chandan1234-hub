@@ -35,9 +35,6 @@
   </tr>
 </table>
 
----
-
-
 
 ---
 
@@ -70,10 +67,6 @@
   </tr>
 </table>
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan1234-hub&theme=react-dark&hide_border=true" />
-</p>
 
 ---
 
